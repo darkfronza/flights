@@ -1,2 +1,2 @@
 # flights
-A microservice that sorts a list of flights giving the initial and final destination path as result
+A microservice that sorts a list of flights then outputs the source and final destination path among the list.
